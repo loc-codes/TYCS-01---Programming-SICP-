@@ -1,4 +1,4 @@
-# TYCS-01---Programming-SICP-
+# TYCS-01---Programming-(Structure and Interpretation of Computer Programs)
 Subject 1 - Programming from my self-study of "Teach Yourself Computer Science".
 
 https://teachyourselfcs.com
