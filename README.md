@@ -1,10 +1,9 @@
 # TYCS-01---Programming-(Structure and Interpretation of Computer Programs)
-Subject 1 - Programming from my self-study of "Teach Yourself Computer Science".
+Subject 1 - Programming 
 
-https://teachyourselfcs.com
+I am self-teaching computer science using https://teachyourselfcs.com. 
 
-
-In this repository, you can find my notes and exercises from self-study. 
+In this repository, you can find my notes and exercises from Structure and Interpretation of Computer Programs. These are kept as a personal record and evidence of my learning. 
 
 Start: April 2023
 
